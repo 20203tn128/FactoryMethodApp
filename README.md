@@ -1,3 +1,3 @@
 #FActoryMethodApp 
 **********
-short description about the project
+Sample application using the Factory Method Creational design pattern
